@@ -1,3 +1,6 @@
 [submodule "pytracking"]
 	path = pytracking
 	url = git@github.com:hibetterheyj/pytracking.git
+[submodule "dense_matching"]
+	path = dense_matching
+	url = git@github.com:hibetterheyj/DenseMatching.git
