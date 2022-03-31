@@ -6,6 +6,8 @@
 # Last edited time: 20200125
 #######################################
 
+results/
+
 # Jupyter Notebook
 .ipynb_checkpoints
 
